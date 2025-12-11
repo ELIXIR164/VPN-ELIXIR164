@@ -1,11 +1,6 @@
 {
   "server": "vip.vpn-elixir164.com",
   "server_port": "144",
-  "password": "{
-  "server": "vip.vpn-elixir164.com",
-  "server_port": "144",
   "password": "Ljuhuhuhu23",
-  "method": "chacha20-ietf-poly1305"
-}",
   "method": "chacha20-ietf-poly1305"
 }
